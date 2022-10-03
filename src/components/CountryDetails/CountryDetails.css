@@ -1,0 +1,8 @@
+.details-card {
+    border: 1px solid fuchsia;
+    border-radius: 8px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    background: lavenderblush;
+}

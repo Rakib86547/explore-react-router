@@ -1,0 +1,17 @@
+.post-card {
+    border: 1px solid lightgreen;
+    border-radius: 8px;
+    padding: 10px;
+}
+button.post-btn {
+    border: 0;
+    background: lightseagreen;
+    padding: 10px 12px;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+}
+.post-btn:hover{
+    background: lightcoral;
+    transition: .3s;
+}

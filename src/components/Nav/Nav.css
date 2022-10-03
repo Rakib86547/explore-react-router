@@ -1,0 +1,26 @@
+.navbar{
+    background-color: bisque;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.menus a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 700;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.active{
+    background-color: coral;
+    color: white;
+}
+.menu-icon{
+    width: 30px;
+    height: 30px;
+}
